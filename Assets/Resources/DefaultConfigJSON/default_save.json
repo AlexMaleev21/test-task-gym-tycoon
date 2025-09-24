@@ -1,0 +1,43 @@
+{
+  "machines": [
+    {
+      "machineName": "Treadmill",
+      "count": 1,
+      "incomeLevel": 1,
+      "speedLevel": 1,
+      "countLevel": 1
+    },
+	{
+      "machineName": "Exercise Bike",
+      "count": 0,
+      "incomeLevel": 1,
+      "speedLevel": 1,
+      "countLevel": 1
+    },
+	{
+      "machineName": "Inc Bench",
+      "count": 0,
+      "incomeLevel": 1,
+      "speedLevel": 1,
+      "countLevel": 1
+    },
+    {
+      "machineName": "Bench Press",
+      "count": 0,
+      "incomeLevel": 1,
+      "speedLevel": 1,
+      "countLevel": 1
+    }
+  ],
+  "inventory": {
+    "ingredients": [],
+    "shakes": []
+  },
+  "softCurrency": 10000,
+  "lockedZones": [
+    {
+      "zoneName": "Second Zone",
+      "isUnlocked": false
+    }
+  ]
+}

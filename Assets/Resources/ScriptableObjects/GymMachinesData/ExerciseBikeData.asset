@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b435e90fa896e4eb2397c7c1df426c, type: 3}
+  m_Name: ExerciseBikeData
+  m_EditorClassIdentifier: 
+  machineName: Exercise Bike
+  maxMachineCount: 4
+  maxLevelCount: 5
+  startCount: 0
+  iterationProfit: 20
+  iterationDuration: 8
+  count: 0
+  incomeLevel: 1
+  speedLevel: 1
+  countLevel: 0
+  incomeMultiplier: 1.2
+  speedMultiplier: 0.9
